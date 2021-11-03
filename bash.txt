@@ -1,0 +1,4 @@
+run: python apps/demo/mv1p.py D:/boming/human_pose/Nerual_body_dataset/387 --out D:/boming/human_pose/Nerual_body_dataset/387/smpl --vis_det --vis_repro --undis --sub_vis 01 07 13 19 --vis_smpl
+extract: python scripts/preprocess/extract_video.py D:/boming/human_pose/Nerual_body_dataset/387 --handface
+
+First: download https://zjueducn-my.sharepoint.com/personal/pengsida_zju_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fpengsida%5Fzju%5Fedu%5Fcn%2FDocuments%2Fneural%5Fbody%2Fdataset%2Fzju%5Fmocap
